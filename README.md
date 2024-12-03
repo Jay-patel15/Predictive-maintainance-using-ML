@@ -87,7 +87,6 @@ cd predictive-maintenance
 
 ### 2. Run the Streamlit app:
 ```
-Copy code
 streamlit run app.py
 ```
 
